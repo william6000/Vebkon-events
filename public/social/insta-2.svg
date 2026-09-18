@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" fill="none">
+  <rect width="500" height="500" fill="#1A1616"/>
+  <!-- Fabrication Workshop -->
+  <path d="M50 400L250 100L450 400Z" stroke="#D71920" stroke-width="4" fill="none"/>
+  <line x1="150" y1="250" x2="350" y2="250" stroke="#FFF" stroke-width="2" opacity="0.5"/>
+  <text x="250" y="460" font-family="sans-serif" font-size="12" font-weight="bold" fill="#AAA" text-anchor="middle">CUSTOM FABRICATION ON-SITE</text>
+</svg>

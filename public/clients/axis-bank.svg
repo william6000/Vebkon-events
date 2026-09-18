@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none">
+  <path d="M20 44L34 16h11L31 44H20z" fill="#97144D"/>
+  <path d="M41 44L28 16h10l13 28H41z" fill="#861F41" opacity="0.6"/>
+  <path d="M24 37h18l-3 7H17l7-7z" fill="#E31837"/>
+  <text x="62" y="32" font-family="'Plus Jakarta Sans', sans-serif" font-size="17" font-weight="800" fill="#97144D" letter-spacing="1.5">AXIS BANK</text>
+  <text x="63" y="44" font-family="'Plus Jakarta Sans', sans-serif" font-size="8" font-weight="600" fill="#6B6B6B" letter-spacing="2">CORPORATE</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none">
+  <circle cx="26" cy="30" r="14" fill="#FFBA00"/>
+  <path d="M26 12v36M12 26h28M16 16l20 20M16 36l20-20" stroke="#E53935" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="26" cy="30" r="6" fill="#E53935"/>
+  <text x="52" y="30" font-family="'Plus Jakarta Sans', sans-serif" font-size="14" font-weight="800" fill="#D32F2F" letter-spacing="0.5">DAINIK JAGRAN</text>
+  <text x="53" y="43" font-family="'Plus Jakarta Sans', sans-serif" font-size="9" font-weight="600" fill="#555555" letter-spacing="1">INDIA'S NO. 1 DAILY</text>
+</svg>

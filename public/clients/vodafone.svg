@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none">
+  <circle cx="28" cy="30" r="16" fill="#E60000"/>
+  <path d="M28 20c-4.4 0-8 3.6-8 8 0 5 4.5 9 9 9 1 0 3-.2 4-.8-1-1.2-1.8-2.8-1.8-4.7 0-3.5 2.8-6.3 6.3-6.3.3 0 .7 0 1 .1C37.5 22.3 33.2 20 28 20z" fill="#FFFFFF"/>
+  <text x="54" y="37" font-family="'Plus Jakarta Sans', sans-serif" font-size="20" font-weight="700" fill="#333333" letter-spacing="0.5">vodafone</text>
+</svg>

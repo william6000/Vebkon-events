@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" fill="none">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#111111"/>
+      <stop offset="50%" stop-color="#1A1616"/>
+      <stop offset="100%" stop-color="#220C0D"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg2)"/>
+  <!-- Interactive experiential pod -->
+  <circle cx="400" cy="240" r="160" stroke="#D71920" stroke-width="2" stroke-dasharray="6 6" opacity="0.4"/>
+  <circle cx="400" cy="240" r="120" stroke="#D71920" stroke-width="3" opacity="0.6"/>
+  <circle cx="400" cy="240" r="80" fill="#D71920" fill-opacity="0.1"/>
+  <!-- Display Towers -->
+  <rect x="180" y="160" width="80" height="220" rx="6" fill="#1D1D1D" stroke="#333" stroke-width="1"/>
+  <rect x="540" y="160" width="80" height="220" rx="6" fill="#1D1D1D" stroke="#333" stroke-width="1"/>
+  <rect x="310" y="190" width="180" height="160" rx="10" fill="#1A1A1A" stroke="#D71920" stroke-width="2"/>
+  <text x="400" y="260" font-family="'Plus Jakarta Sans', sans-serif" font-size="16" font-weight="800" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">MALL ACTIVATION DOME</text>
+  <text x="400" y="290" font-family="'Plus Jakarta Sans', sans-serif" font-size="11" font-weight="600" fill="#E5A93C" text-anchor="middle" letter-spacing="3">EXPERIENTIAL TOUCHPOINTS</text>
+  <!-- Floor branding grid -->
+  <path d="M100 440l150 -60M700 440l-150 -60" stroke="#D71920" stroke-width="1.5" opacity="0.3"/>
+</svg>

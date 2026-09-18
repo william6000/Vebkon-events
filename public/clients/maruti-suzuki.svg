@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none">
+  <path d="M16 16h18L22 30h16L16 44h18" stroke="#E51937" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <text x="48" y="28" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" font-weight="800" fill="#002C6C" letter-spacing="1.2">MARUTI</text>
+  <text x="48" y="42" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" font-weight="800" fill="#E51937" letter-spacing="1.2">SUZUKI</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" fill="none">
+  <defs>
+    <linearGradient id="bg3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F0F12"/>
+      <stop offset="100%" stop-color="#1E1618"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg3)"/>
+  <!-- 3D Exhibition Stall Structure -->
+  <path d="M150 140l500 0l-60 220l-380 0z" fill="#181818" stroke="#D71920" stroke-width="2"/>
+  <!-- Overhead Fascia -->
+  <polygon points="120,100 680,100 650,150 150,150" fill="#D71920"/>
+  <text x="400" y="132" font-family="'Plus Jakarta Sans', sans-serif" font-size="18" font-weight="900" fill="#FFFFFF" text-anchor="middle" letter-spacing="4">CUSTOM 3-SIDE OPEN EXPO BOOTH</text>
+  <!-- Meeting pods & lounge counters -->
+  <rect x="220" y="240" width="120" height="80" rx="6" fill="#222" stroke="#444" stroke-width="1"/>
+  <rect x="460" y="240" width="120" height="80" rx="6" fill="#222" stroke="#444" stroke-width="1"/>
+  <rect x="330" y="290" width="140" height="60" rx="6" fill="#D71920" fill-opacity="0.2" stroke="#D71920" stroke-width="1.5"/>
+  <text x="400" y="325" font-family="'Plus Jakarta Sans', sans-serif" font-size="11" font-weight="700" fill="#FFF" text-anchor="middle">EXPERIENCE BAR</text>
+  <line x1="150" y1="360" x2="650" y2="360" stroke="#555" stroke-width="2"/>
+</svg>

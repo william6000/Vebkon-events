@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none">
+  <path d="M26 14c-8 0-14 6-14 14 0 6 3 10 8 12v4h12v-4c5-2 8-6 8-12 0-8-6-14-14-14zm-3 10h6v6h-6v-6z" fill="#1B6A38"/>
+  <circle cx="26" cy="20" r="2" fill="#E31837"/>
+  <text x="54" y="37" font-family="'Playfair Display', serif" font-size="24" font-weight="700" fill="#1B6A38" letter-spacing="1">Dabur</text>
+</svg>
